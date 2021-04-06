@@ -6,7 +6,7 @@ choosing that creates a NFA and then check of DFA accepts a give string.
 Use your library from lab 1 to generate the NFA based on input file.
 Use two implementations
 
-#### Hints for the implemetations: 
+#### Hints: 
 - Convert the NFA to a DFA and solve it using lab 2
 - Use a non-deterministic approach
 - Use backtracking
