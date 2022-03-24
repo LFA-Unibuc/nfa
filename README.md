@@ -2,8 +2,8 @@
 
 #### Exercise 1.
 Implement a library/program in a programming language of your
-choosing that creates a NFA and then check of DFA accepts a give string.
-Use your library from lab 1 to generate the NFA based on input file.
+choosing that creates a NFA and then checks if the NFA accepts a give string.
+Use your library from lab 1 to generate the NFA based on an input file.
 Use two implementations
 
 #### Hints: 
